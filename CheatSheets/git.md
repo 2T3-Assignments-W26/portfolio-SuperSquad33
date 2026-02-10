@@ -25,3 +25,17 @@ Links: `[Text for link](Link)`
 Unordered Lists: use `-,*`
 
 Ordered Lists: use `1. 2.  3.` etc. 
+
+Headers: 
+
+`# Header1 `
+
+`## Header 2`
+
+`### Header 3`
+
+`#### Header 4`
+
+`##### Header 5`
+
+`###### Header 6`
