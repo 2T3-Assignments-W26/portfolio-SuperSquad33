@@ -16,7 +16,7 @@ Bold: `**Bold**`
 
 Italics: `_Italic_`
 
-Paragraph: `>Paragraph section`
+Paragraph: add `>` for every line the Paragraph will be
 
 Images: ![Optional text](Image file)
 
