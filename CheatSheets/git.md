@@ -11,3 +11,17 @@ Get status: git status
 Colning repo: git clone [HTTPS Link]
 
 Configure editor: git config --global core.editor "code --wait"
+
+Bold: `**Bold**`
+
+Italics: `_Italic_`
+
+Paragraph: `>Paragraph section`
+
+Images: ![Optional text](Image file)
+
+Links: `[Text for link](Link)`
+
+Unordered Lists: use `-,*`
+
+Ordered Lists: use `1. 2.  3.` etc. 
