@@ -1,10 +1,10 @@
 <h1>Git Cheat Sheet</h1>
 
-Initialize repo: md [repo name]
+Initialize repo: md [repo name] then git init
 
-Add file to staging: git add [Filename]
+Add file to staging: git add [Filename] (or . to add all modified files)
 
-Commit to Repo: git commit [filename]
+Commit to Repo: git commit -m "commit reason"
 
 Get status: git status
 
