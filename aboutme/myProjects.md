@@ -1,0 +1,8 @@
+# My Projects
+
+## C# Console App Game
+
+A Game that had to be made as a final project for one of my classes, I dedcided to make a maze Runner game.
+
+The main Technology that was used was C# as it had to be made 
+## 
